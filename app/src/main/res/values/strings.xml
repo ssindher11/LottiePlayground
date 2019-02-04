@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">LottiePlayground</string>
+    <string name="activity_name">Lottie Playground</string>
 </resources>
