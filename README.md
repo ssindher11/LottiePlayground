@@ -1,1 +1,2 @@
-Lottie Playground
+# Lottie Playground
+For detailed tutorial, visit <link> 
